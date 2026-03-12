@@ -1,9 +1,30 @@
-This application provides a user-friendly interface for managing tasks and maintaining productivity. Key features include:
-Adding to-do items via an input field.
-Rendering added tasks in the current viewport.
-Marking off tasks as completed.
-Deleting tasks.
-Editing existing tasks.
-Persisting application state using localStorage for seamless reloading.
-Employing font-awesome or Box Icons for visually appealing icons (delete, edit, add task).
-Utilizing Google Fonts for a consistent and professional font family.
+# Inventory Management System
+
+A React-based web application for managing product inventory.
+
+## Features
+
+- Add products
+- Edit inventory
+- Delete products
+- Track product quantities
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS
+
+## Installation
+
+git clone https://github.com/yourusername/inventory-management-system
+
+cd inventory-management-system
+
+npm install
+
+npm start
+
+## Author
+
+Bwire Ivan
